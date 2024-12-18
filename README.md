@@ -1,16 +1,40 @@
-### PRIVATE
+# Hihi~
 
-<!--
-**day1haru/day1haru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 I am
+- 💻 Computer Science & Engineering University Student
+- 🎮 Game Development Enthusiast
+- 📊 Data Science & Deep Learning Explorer
 
-Here are some ideas to get you started:
+## Technical Skills 
+```python
+tech_stack = {
+    'Game Development': ['Unity', 'Unreal Engine'],
+    'Programming': ['C', 'Java', 'Python', 'R'],
+    'Tools & Platforms': {
+        'IDEs': ['JetBrains Suite'],
+        'Version Control': ['Git'],
+        'Currently Learning': ['Game Development', 'Data Science', 'Deep Learning']
+    }
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- Game Development & Design
+- Deep Learning Applications
+- Data Science & Analytics
+- AI in Gaming
+
+
+## Connect!
+- 📧 Email: sedalharu@gmail.com
+- 🌐 Portfolio: preparing...
+- 💼 LinkedIn: preparing...
+
+## Gaming & Dev Platforms
+[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)](https://www.unrealengine.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+
+---
+⭐️ From [sedalharu](https://github.com/sedalharu)
