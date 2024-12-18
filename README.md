@@ -1,4 +1,4 @@
-# Hihi~
+# Sedal.Haru
 
 ## 🎓 I am
 - 💻 Computer Science & Engineering University Student
