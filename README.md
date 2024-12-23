@@ -30,7 +30,7 @@ tech_stack = {
 - 🌐 Portfolio: preparing...
 - 💼 LinkedIn: preparing...
 
-## Gaming & Dev Platforms
+## Dev Platforms
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)](https://www.unrealengine.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
