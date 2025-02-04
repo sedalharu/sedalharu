@@ -1,7 +1,7 @@
 # Sedal.Haru
 
 ## 🎓 I am
-- 💻 Computer Science & Engineering University Student
+- 💻 Computer Science & Engineering Univ. Student
 - 🎮 Game Development Enthusiast
 - 📊 Data Science & Deep Learning Explorer
 
@@ -11,7 +11,7 @@ tech_stack = {
     'Game Development': ['Unity', 'Unreal Engine'],
     'Programming': ['C', 'Java', 'Python', 'R'],
     'Tools & Platforms': {
-        'IDEs': ['JetBrains Suite'],
+        'IDEs': ['JetBrains IDE'],
         'Version Control': ['Git'],
         'Currently Learning': ['Game Development', 'Data Science', 'Deep Learning']
     }
@@ -20,15 +20,12 @@ tech_stack = {
 
 ## Areas of Interest
 - Game Development & Design
-- Deep Learning Applications
 - Data Science & Analytics
-- AI in Gaming
 
 
 ## Connect!
 - 📧 Email: sedalharu@gmail.com
-- 🌐 Portfolio: preparing...
-- 💼 LinkedIn: preparing...
+- 🌐 Portfolio: Notion Preparing...
 
 ## Dev Platforms
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
