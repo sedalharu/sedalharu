@@ -23,7 +23,7 @@ tech_stack = {
 - Data Science & Analytics
 
 
-## Connect!
+## Connect
 - 📧 Email: day1haru@gmail.com / sedalharu@gmail.com
 - 🌐 Portfolio: Notion Preparing...
 
