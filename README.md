@@ -24,7 +24,7 @@ tech_stack = {
 
 
 ## Connect!
-- 📧 Email: sedalharu@gmail.com
+- 📧 Email: day1haru@gmail.com / sedalharu@gmail.com
 - 🌐 Portfolio: Notion Preparing...
 
 ## Dev Platforms
