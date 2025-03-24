@@ -1,7 +1,7 @@
 # Sedal.Haru
 
 ## 🎓 I am
-- 💻 Computer Science & Engineering Univ. Student
+- 💻 Bachelor of Science in Computer Engineering
 - 🎮 Game Development Enthusiast
 - 📊 Data Science & Deep Learning Explorer
 
@@ -25,7 +25,7 @@ tech_stack = {
 
 ## Connect
 - 📧 Email: day1haru@gmail.com / sedalharu@gmail.com
-- 🌐 Portfolio: Notion Preparing...
+- 🌐 Portfolio: Currently private
 
 ## Dev Platforms
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
