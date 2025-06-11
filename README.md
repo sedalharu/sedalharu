@@ -1,6 +1,6 @@
 # Sedal.Haru
 
-## 🎓 I am
+## I am
 - 💻 Bachelor of Science in Computer Engineering
 - 🎮 Game Development Enthusiast
 - 📊 Data Science & Deep Learning Explorer
@@ -9,11 +9,11 @@
 ```python
 tech_stack = {
     'Game Development': ['Unity', 'Unreal Engine'],
-    'Programming': ['C', 'Java', 'Python', 'R'],
+    'Programming': ['C', 'Java', 'Python'],
     'Tools & Platforms': {
         'IDEs': ['JetBrains IDE'],
         'Version Control': ['Git'],
-        'Currently Learning': ['Game Development', 'Data Science', 'Deep Learning']
+        'Currently Learning': ['Game Development', 'Data Science']
     }
 }
 ```
