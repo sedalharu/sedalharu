@@ -5,7 +5,12 @@
 </div>
 
 <div align="left">
-    <h2>💬 Socials 💬</h2>
+    <h2>(˶ᐢ. .ᐢ˵)</h2>
+    Hello!
+</div>
+
+<div align="left">
+    <h2>📱 Socials</h2>
     <a href="mailto:sedalharu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://www.instagram.com/sedal.haru"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <!--<a href="https://twitter.com/your-username"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>-->
@@ -16,8 +21,8 @@
 <br>
 
 <div align="left">
-  <h2>🛠️ Tech Stacks 🛠️</h2>
-  <h3>🎮 Game Development & Design 🎮</h3>
+  <h2>🛠️ Tech Stacks</h2>
+  <h3>🎮 Game Development & Design</h3>
     
   [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
   [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)](https://www.unrealengine.com/)
@@ -32,7 +37,7 @@
 </div>
 
 <div align="left">
-  <h3>💻 Development 💻</h3>
+  <h3>💻 Development</h3>
     
   [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)](https://www.c-language.org/)
   [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)](https://isocpp.org/)
@@ -48,6 +53,8 @@
   [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
   [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)](https://vuejs.org/)
   [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+
+  <h3>⌨️ IDE</h3>
   
   [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
   [![PyCharm](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=black&color=black&logoColor=white)](https://www.jetbrains.com/pycharm/)
@@ -58,11 +65,48 @@
 
 ### 
 <div align="left">
-  <h3>🗂️ Version Control 🗂️</h3>
+  <h3>🗂️ VCS</h3>
     
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
 </div>
+
+<div align="left">
+  <h2>📄 Featured Team Projects</h2>
+  <table>
+    <h3>🎮 Starless</a></h3>
+    <tr>
+      <td width="300px" valign="center">
+        <a href="https://sedalharu.itch.io/starless">
+          <img src="https://img.itch.zone/aW1nLzE3NTAyOTc5LnBuZw==/original/tvn0IL.png" alt="Project Starless" align="center">
+        </a>
+      </td>
+      <td valign="center">
+          <div valign="center">
+        <b>Description</b><br>
+          This is a dot graphic bullet hell shooting platformer game created by Team StarLight (SNUGDC).
+        <br><br>
+          <b>Stacks</b><br>
+          <img src="https://img.shields.io/badge/C%23-9179E4?style=for-the-badge&logo=c-sharp&logoColor=white">
+          <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+          <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+          <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+        <br><br>
+          <b>Platform</b><br>
+          <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+        <br><br>
+        </div>
+      </td>
+    </tr>
+    <tr>
+    <td colspan="2">
+        <a href="https://github.com/SNUGDC/Starless"><b>GitHub(SNUGDC)</b></a> | 
+        <a href="https://sedalharu.itch.io/starless"><b>itch.io(v2502.06 - NDM)</b></a>
+    </td>
+  </tr>
+  </table>
+  </div>
 
 ---
 ⭐️ From [sedalharu](https://github.com/sedalharu)
