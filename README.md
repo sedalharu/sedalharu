@@ -65,10 +65,11 @@
 
 ### 
 <div align="left">
-  <h3>🗂️ VCS</h3>
+  <h3>🗂️ VCS & Plan Control</h3>
     
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
+  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so/)
 </div>
 
 <div align="left">
