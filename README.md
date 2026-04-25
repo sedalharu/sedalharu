@@ -71,6 +71,12 @@
 </div>
 
 <div align="left">
+  <h2>📄 Project in Progress</h2>
+    ・ 🔐 Cocktail_Encryption (Private Projects)</a><br>
+    ・ 🔐 Interactive_Game_Using_ScTme (Private Projects)</a>
+  </div>
+
+<div align="left">
   <h2>📄 Featured Team Projects</h2>
   <table>
     <h3>🎮 Starless</a></h3>
