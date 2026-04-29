@@ -70,11 +70,14 @@
   [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so/)
 </div>
 
+
 <div align="left">
   <h2>📄 Project in Progress</h2>
-    ・ 🔐 Cocktail_Encryption (Private Projects)</a><br>
-    ・ 🔐 Interactive_Game_Using_ScTme (Private Projects)</a>
+    ・🔐 Theoretical Test Phase. <a href="https://github.com/sedalharu/CocktailEncryption-App"><b>Cocktail_Encryption(Cryptology)<br></b></a>
+    ・🔐 Planning and MVP Development. <a href="https://github.com/sedalharu/MyStatus-App"><b>Interactive_Game_Development(Game)</b></a>
   </div>
+
+    
 
 <div align="left">
   <h2>📄 Featured Team Projects</h2>
@@ -114,4 +117,5 @@
   </div>
 
 ---
+
 ⭐️ From [sedalharu](https://github.com/sedalharu)
