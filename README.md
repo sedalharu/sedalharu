@@ -15,7 +15,7 @@
     <a href="https://www.instagram.com/sedal.haru"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <!--<a href="https://twitter.com/your-username"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>-->
     <!--<<a href="https://www.linkedin.com/in/donghun-l-76477a281/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>-->
-    <a href="https://blog.naver.com/ciaccona_/"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog"></a>
+    <!--<a href="https://blog.naver.com/ciaccona_/"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog"></a>-->
 </div>
 
 <br>
@@ -49,7 +49,6 @@
   [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
   [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
   <br>
-  [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
   [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 
   <h3>⌨️ IDE</h3>
@@ -72,15 +71,15 @@
 
 
 <div align="left">
-  <h2>📄 Project in Progress</h2>
-    ・🔐 Theoretical Test Phase. <a href="https://github.com/sedalharu/CocktailEncryption-App"><b>Cocktail_Encryption(Cryptology)<br></b></a>
+  <h2>📄 Project in Progress Phase</h2>
+    ・🔐 Theoretical Test. <a href="https://github.com/sedalharu/CocktailEncryption-App"><b>Cocktail_Encryption(Cryptology)<br></b></a>
     ・🔐 Planning and MVP Development. <a href="https://github.com/sedalharu/MyStatus-App"><b>Interactive_Game_Development(Game)</b></a>
   </div>
 
     
 
 <div align="left">
-  <h2>📄 Featured Team Projects</h2>
+  <h2>📄 Team Projects</h2>
   <table>
     <h3>🎮 Starless</a></h3>
     <tr>
