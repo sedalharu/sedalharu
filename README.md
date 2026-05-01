@@ -18,6 +18,11 @@
     <!--<a href="https://blog.naver.com/ciaccona_/"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog"></a>-->
 </div>
 
+<div align="left">
+    <h2>📖 Portfolio</h2>
+    <a href="https://www.notion.so/sedalharu/From-Dreamer-to-Realizer-2cb9536339038175bb5fc62d01b50a46?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a>
+</div>
+
 <br>
 
 <div align="left">
